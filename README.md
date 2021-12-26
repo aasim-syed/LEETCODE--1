@@ -1,6 +1,6 @@
 # LEETCODE--1
 
-<h1> Palindrome Number</h1>
+### Palindrome Number
 ```
 9. Palindrome Number
 Easy
