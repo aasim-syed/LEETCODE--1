@@ -45,6 +45,7 @@ Constraints:
 ```
 <hr>
 ```
+
  class Solution {
     public boolean isPalindrome(int x) {
        int rev = 0;
@@ -62,7 +63,6 @@ Constraints:
         return (rev == x1);
         }
 }
-                 
- ```             
+```             
 
 ![image](https://user-images.githubusercontent.com/70385414/147397641-3697f564-094a-498a-ab99-c307f3bfe3f8.png)
