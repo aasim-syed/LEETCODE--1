@@ -40,8 +40,8 @@ Constraints:
 
 -231 <= x <= 231 - 1
 <comment>
-
-<h2>JAVA-CODE</h2>
+```
+# JAVA-CODE
 ```
 <hr>
 
