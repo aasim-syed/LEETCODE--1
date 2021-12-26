@@ -39,12 +39,9 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 Constraints:
 
 -231 <= x <= 231 - 1
-<comment>
+
 ```
 # JAVA-CODE
-```
-<hr>
-
 ```
 class Solution {
     public boolean isPalindrome(int x) {
@@ -63,5 +60,4 @@ class Solution {
         }
 }
 ```             
-```
 <image src="leetcode/1.png"></image>
