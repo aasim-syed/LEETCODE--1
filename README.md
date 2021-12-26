@@ -1,7 +1,7 @@
 # LEETCODE--1
 
 <h1> Palindrome Number</h1>
-/**9. Palindrome Number
+/*9. Palindrome Number
 Easy
 
 4661
@@ -38,9 +38,11 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 Constraints:
 
 -231 <= x <= 231 - 1
-**/
+*/
 
 <h2>JAVA-CODE</h2>
+
+<code>
 class Solution {
     public boolean isPalindrome(int x) {
        int rev = 0;
@@ -61,5 +63,6 @@ class Solution {
     
     }
 }
+                 </code>                
 
 ![image](https://user-images.githubusercontent.com/70385414/147397641-3697f564-094a-498a-ab99-c307f3bfe3f8.png)
