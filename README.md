@@ -44,9 +44,9 @@ Constraints:
 <h2>JAVA-CODE</h2>
 ```
 <hr>
-```
 
- class Solution {
+```
+class Solution {
     public boolean isPalindrome(int x) {
        int rev = 0;
         int x1 = x;
@@ -55,7 +55,6 @@ Constraints:
         }
         while(x != 0)
         {
-        
         int d = x % 10;
         rev = rev * 10 + d;
         x /= 10;
